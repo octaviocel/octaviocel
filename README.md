@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **React, React Native, Express, NestJS, Java, AWS S3, Python**
 
-- 📫 How to reach me **octacelaya@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/octavio-celaya-246a3a1b5/](https://www.linkedin.com/in/octavio-celaya-246a3a1b5/)
 
 <h3 align="left">Connect with me:</h3>
