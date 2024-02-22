@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=octaviocel" alt="octaviocel" /></a> </p>
 
-- 🔭 I’m currently working at **Universidad La Salle**
+- 🔭 I’m currently working at **State Government's Official Hangar - Oaxaca**
 
 - 🌱 I’m currently learning **Angular, GraphQL**
 
