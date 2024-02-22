@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at **State Government's Official Hangar - Oaxaca**
 
-- 🌱 I’m currently learning **Angular, GraphQL**
+- 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **React, React Native, Express, NestJS, Java, AWS S3, Python**
+- 💬 Ask me about **React, React Native, Express, NestJS, Java, AWS S3, Python, Angular**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/octavio-celaya-246a3a1b5/](https://www.linkedin.com/in/octavio-celaya-246a3a1b5/)
 
